@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686288008229",
+    "project_id": "paryavaran-ee421",
+    "storage_bucket": "paryavaran-ee421.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686288008229:android:5cd1615a915451416e3bcc",
+        "android_client_info": {
+          "package_name": "com.paryavaran.kavalu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686288008229-cv962jqrh2tukdeab6mepto2l5gvimq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjHd2Rxb18D-6fE0Zt7eEcoT67bfHN2TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686288008229-cv962jqrh2tukdeab6mepto2l5gvimq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
